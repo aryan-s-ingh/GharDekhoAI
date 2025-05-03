@@ -14,10 +14,9 @@ const Footer = () => {
         </div>
 
         <div className="flexColStart f-right">
-          <span className="primaryText">Made with Love By</span>
-          <span className="secondaryText">Pranav Wadhera</span>
-          <span className="secondaryText">Chandigarh, India</span>
-          <span className="secondaryText">7529096980</span>
+          <span className="primaryText">Made By</span>
+          <span className="secondaryText">Aryan Singh</span>
+          <span className="secondaryText">9759421616</span>
         </div>
       </div>
     </div>
